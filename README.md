@@ -13,7 +13,7 @@ This is a simple JavaScript quiz application that allows users to test their kno
 
 ## Demo
 
-You can check out the live demo [here](#).
+You can check out the live demo [here](#)
 
 ## Installation
 
