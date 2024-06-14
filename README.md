@@ -10,6 +10,7 @@ This is a simple JavaScript quiz application that allows users to test their kno
 - Real-time feedback on answers
 - Score tracking
 - Responsive design
+______________________________________________________************
 
 ## Demo
 
